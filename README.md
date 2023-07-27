@@ -6,7 +6,9 @@ The code for a website that allows you to enjoy a music party with your friends,
 
 ### Install Required Python Modules
 
+```bash
 pip install -r requirements.txt
+```
 
 ### Start Web Server
 
